@@ -45,7 +45,7 @@ elements:
             rebuild_me: 1
         individual:
           entry:
-            label: 記事
+            label: 記事たん
             mappings:
               individual:
                 archive_type: Individual
