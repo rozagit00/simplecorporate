@@ -22,8 +22,7 @@ elements:
               category:
                 archive_type: Category
           yearly_entry_listing:
-            label: 年別ブログ記事リスト
-            mappings:
+            label: 年別ブログ記事リストたん            mappings:
               yearly:
                 archive_type: Yearly
         index:
