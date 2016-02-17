@@ -27,7 +27,7 @@ elements:
                 archive_type: Yearly
         index:
           feed_recent:
-            label: 最新記事のフィード
+            label: 最新記事のフィードぉオォ！
             outfile: atom.xml
             rebuild_me: 1
           index_page:
