@@ -67,7 +67,7 @@ elements:
             label: footer
         page:
           page:
-            label: ウェブページ
+            label: ウェブページ～～～
             mappings:
               page:
                 archive_type: Page
