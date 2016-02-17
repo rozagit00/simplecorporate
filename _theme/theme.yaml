@@ -17,7 +17,7 @@ elements:
       templates:
         archive:
           category_entry_listing:
-            label: カテゴリ別の記事リストぉぉぉぉ！！
+            label: カテゴリ別の記事リストぉぉぉぉ！
             mappings:
               category:
                 archive_type: Category
